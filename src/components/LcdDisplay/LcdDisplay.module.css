@@ -1,0 +1,19 @@
+.lcdStyles{
+    padding: 0px;
+    color: blue;
+    font-size: 30px;
+    font-weight: bolder;
+    width: 240px;
+    background-color: bisque;
+    height: 50px
+}
+
+.memo{
+    padding: 0px;
+    color: rgb(6, 62, 83);
+    font-size: 12px;
+    width: 240px;
+    background-color: rgb(187, 178, 136);
+    height: 50px
+
+}
